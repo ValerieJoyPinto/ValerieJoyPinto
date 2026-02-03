@@ -1,4 +1,4 @@
-## - Hello, I'm Valerie Joy Pinto!👋
+## Hello, I'm Valerie Joy Pinto!👋
 
 - 🎓 I'm currently studying for a Bachelor's Degree in Computer Engineering.
 - 💻 I am interested in Machine Learning, frontend and backend development, and Embedded Software Development. 

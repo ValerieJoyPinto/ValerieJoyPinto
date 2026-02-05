@@ -1,6 +1,6 @@
 ## Hello, I'm Valerie Joy Pinto!👋
 
-- 🎓 I'm currently studying for a Bachelor's Degree in Computer Engineering.
+- 🎓 I'm currently studying for a Bachelor's Degree in Computer Engineering at SDSU, graduating in May 2026.
 - 💻 I am interested in Machine Learning, Frontend and Backend development, and Embedded Software Development. 
 - ✨ My main objective is to contribute and collaborate on any project to create better living environments for individuals and communities.
 

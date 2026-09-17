@@ -1,6 +1,6 @@
 ## Hello, I'm Valerie!👋
 
-- 🎓 I'm currently studying for a Bachelor's Degree in Computer Engineering at SDSU, graduating in May 2026.
+- I graduated on May 2026 with a B.S degree in Computer Engineering.
 - 💻 I am interested in Embedded Hardware Systems and small interests with Web Development and Machine Learning.
 - ✨ My main objective is to contribute and collaborate on any project to create better living environments for individuals and communities.
 
